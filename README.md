@@ -43,4 +43,5 @@ This project is open source and free to use.
 
 ### 👨‍💻 Author
 **Ritesh Kumar**  
-Web Developer | MERN Stack Learner
+Web Developer | Learner
+
